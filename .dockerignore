@@ -1,0 +1,6 @@
+specs/
+ruff.toml
+.pre-commit-config.yaml
+.ruff_cache/
+__pycache__/
+*.md
